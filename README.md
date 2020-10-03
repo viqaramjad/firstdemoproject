@@ -2,4 +2,8 @@
 
 ## Second Heading
 
-###### This is my first demo
+###### This is smallest heading
+
+This is my first demo
+
+Hello this is bold text
