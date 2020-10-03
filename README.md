@@ -7,3 +7,6 @@
 This is my first demo
 
 **Hello this is bold text**
+
+
+*Hello this is bold text*
